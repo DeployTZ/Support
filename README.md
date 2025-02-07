@@ -10,7 +10,7 @@
   **Your friendly neighborhood deployment support center**
   Get help with app hosting, Shipfile configuration, and deployment workflows
 
-  [Main Website](https://deploy.tz) • [Documentation](https://deploy.tz/docs) • [Status Page](https://status.deploy.tz)
+  [Main Website](https://deploy.tz) • [Documentation](https://docs.deploy.tz) • [Status Page](https://status.deploy.tz)
 </div>
 
 ## 🚀 Getting Started
